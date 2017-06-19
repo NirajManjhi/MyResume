@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="currently_working_heading">RIGHT NOW, I AM WORKING ON -</string>
+    <string name="currently_working_desc">Developing different tools to automate the mannual processes like sending business reports using java code</string>
+    <string name="my_name_age">Niraj Kumar, 23</string>
+    <string name="my_designation">System Engineer @Infosys</string>
+    <string name="my_location">Bangalore</string>
+    <string name="my_desc">I am a Java developer with knowledge of android architecture. I have a good analytical ability.Swimming, Badminton, cricket and bollywood music. Travelling the world is my dream.</string>
+    <string name="my_designation_only">Systems Engineer</string>
+    <string name="my_company">Infosys</string>
+    <string name="job_role_head">Job roles i\'m applying for</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="experience">Around 1 year of experience</string>
+    <string name="edu_title">Education</string>
+    <string name="colg_name">KiiT University, 2015</string>
+    <string name="degree_btech">Bachelor of Technology (B.Tech)</string>
+    <string name="degree_marks">Scored 8.3 CGPA</string>
+    <string name="poly_marks">Scored 8.01 CGPA</string>
+    <string name="degree_poly">Diploma in Technology (D.Tech)</string>
+    <string name="poly_name">B.I.T. Mesra, Ranchi</string>
+    <string name="school_name">Gurukul Vidya Niketan</string>
+    <string name="school_marks">Scored 80.09 % marks</string>
+    <string name="my_skills_title">My Skills</string>
+    <string name="my_skills_title1">I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS</string>
+    <string name="android">Android</string>
+    <string name="java">Java</string>
+    <string name="rdbms">RDBMS</string>
+    <string name="mysql">MySQL</string>
+    <string name="google_android_map_api_key">AIzaSyDte2mEwq_Egvcrx3i62popbRdFAk25Y9U</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_location_in_map">You can find me here</string>
+</resources>
