@@ -3,16 +3,16 @@
     <string name="currently_working_heading">RIGHT NOW, I AM WORKING ON -</string>
     <string name="currently_working_desc">Developing different tools to automate the mannual processes like sending business reports using java code</string>
     <string name="my_name_age">Niraj Kumar, 23</string>
-    <string name="my_designation">System Engineer @Infosys</string>
-    <string name="my_location">Bangalore</string>
-    <string name="my_desc">I am a Java developer with knowledge of android architecture. I have a good analytical ability.Swimming, Badminton, cricket and bollywood music. Travelling the world is my dream.</string>
+    <string name="my_designation">Java|Android developer @Infosys</string>
+    <string name="my_location">Bengaluru, Karnataka, India</string>
+    <string name="my_desc">I am a Java|Android developer with overall 2 years of software development experience. I have a good analytical ability.Swimming, Badminton, cricket and bollywood music. Travelling the world is my dream.</string>
     <string name="my_designation_only">Systems Engineer</string>
     <string name="my_company">Infosys</string>
     <string name="job_role_head">Job roles i\'m applying for</string>
     <string name="android_developer">Android Developer</string>
     <string name="experience">Around 1 year of experience</string>
     <string name="edu_title">Education</string>
-    <string name="colg_name">KiiT University, 2015</string>
+    <string name="colg_name">KiiT University</string>
     <string name="degree_btech">Bachelor of Technology (B.Tech)</string>
     <string name="degree_marks">Scored 8.3 CGPA</string>
     <string name="poly_marks">Scored 8.01 CGPA</string>
@@ -29,4 +29,9 @@
     <string name="google_android_map_api_key">AIzaSyDte2mEwq_Egvcrx3i62popbRdFAk25Y9U</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="my_location_in_map">You can find me here</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="highlights">Highlights</string>
+    <string name="workexperience">Work Experience</string>
+    <string name="contact_me">Contact Me</string>
 </resources>

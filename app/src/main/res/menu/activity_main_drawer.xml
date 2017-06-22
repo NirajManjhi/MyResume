@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_highlits"
+            android:icon="@drawable/android_logo"
+            android:title="@string/highlights" />
+        <item
+            android:id="@+id/nav_Work_experience"
+            android:icon="@drawable/android_logo"
+            android:title="@string/workexperience" />
+        <item
+            android:id="@+id/nav_education"
+            android:icon="@drawable/android_logo"
+            android:title="@string/edu_title" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/android_logo"
+                android:title="@string/contact_me" />
+        </menu>
+    </item>
+
+</menu>

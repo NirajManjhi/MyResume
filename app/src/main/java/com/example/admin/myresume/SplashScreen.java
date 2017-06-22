@@ -3,7 +3,6 @@ package com.example.admin.myresume;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.WindowManager;
 
 /**
  * Created by admin on 10/03/17.
@@ -20,7 +19,7 @@ public class SplashScreen extends AppCompatActivity {
             public void run(){
                 try {
                     sleep(2000);
-                    Intent intent = new Intent(getApplicationContext(),ActivityTest.class);
+                    Intent intent = new Intent(getApplicationContext(), DrawerActivity.class);
                     startActivity(intent);
                     finish();
                 } catch (InterruptedException e) {
